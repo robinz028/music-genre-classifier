@@ -15,15 +15,17 @@ The model was trained on a small dataset (~100 songs across 3 genres) and built 
 ---
 
 ## 📁 Project Structure
+```
 genre-classifier/
-├── model/                             # Trained model file (.keras)
-├── data/                              # Audio files organized by genre
+├── model/                      # Trained model file (.keras)
+├── data/                       # Audio files organized by genre
 ├── notebooks/
-│   └── genre_classifier.ipynb         # Full training & testing code
+│   └── genre_classifier.ipynb  # Full training & testing code
 ├── utils/
-│   └── audio_processing.py            # Slicing & prediction functions
-├── requirements.txt                   # Dependencies
-└── README.md                          # You’re reading it!
+│   └── audio_processing.py     # Slicing & prediction functions
+├── requirements.txt            # Dependencies
+└── README.md                   # You’re reading it!
+```
 
 ---
 
