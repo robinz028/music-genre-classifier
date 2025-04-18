@@ -39,10 +39,11 @@ Due to GitHub's file size limitations, the **trained model** and **audio dataset
 
 1. Extract the `.zip` file
 2. Place the folders into your project directory:
+```
 genre-classifier/
 ├── model/genre_classifier_model.keras
 └── data/  # Folder with genre subfolders and songs
-
+```
 ---
 
 ## 🚀 How to Run
